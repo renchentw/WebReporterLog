@@ -14,6 +14,8 @@
 
 2019-07-22	Modify by Ren	-	[YG666] 1.增加模板選擇功能 2.完成亞源科技模板 3.新增輸入程式編號直達功能 4.將模板設置於檔案服務器方便更新 5. 前端UI調整
 
+2019-07-23	Modify by Ren	-	[Unity.DBProcess] 增加Database處理模塊，傳入sql及參數，返回DataTable或Dictionary<string, string>。
+
 
 
 
