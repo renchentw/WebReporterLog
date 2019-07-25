@@ -16,6 +16,12 @@
 
 2019-07-23	Modify by Ren	-	[Unity.DBProcess] 增加Database處理模塊，傳入sql及參數，返回DataTable或Dictionary<string, string>。
 
+2019-07-24	Modify by Ren	-	[_Layout.cshtml] 修改Bootstrap以及jQuery的引用路徑，以適應沒有Internet的環境。
+
+2019-07-25	Modify by Ren	-	[YG666] 新增前端Bootstrap Alert提示錯誤信息。
+
+​													  -	[Unity.BootstrapAlert] 新增信息提示對象。
+
 
 
 
