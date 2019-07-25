@@ -8,19 +8,30 @@
 
 ## 版本信息
 
-2019-07-17	Create by Ren	-	[YG666] 提供出貨資料匯出EXCEL檔(台金庫)
+2019-07-17	Create by Ren
 
-2019-07-19	Modify by Ren	-	[YG666] 增加庫別選擇功能
+- [YG666] 提供出貨資料匯出EXCEL檔(台金庫)
 
-2019-07-22	Modify by Ren	-	[YG666] 1.增加模板選擇功能 2.完成亞源科技模板 3.新增輸入程式編號直達功能 4.將模板設置於檔案服務器方便更新 5. 前端UI調整
+2019-07-19	Modify by Ren	
 
-2019-07-23	Modify by Ren	-	[Unity.DBProcess] 增加Database處理模塊，傳入sql及參數，返回DataTable或Dictionary<string, string>。
+- [YG666] 增加庫別選擇功能
 
-2019-07-24	Modify by Ren	-	[_Layout.cshtml] 修改Bootstrap以及jQuery的引用路徑，以適應沒有Internet的環境。
+2019-07-22	Modify by Ren
 
-2019-07-25	Modify by Ren	-	[YG666] 新增前端Bootstrap Alert提示錯誤信息。
+- [YG666] 1.增加模板選擇功能 2.完成亞源科技模板 3.新增輸入程式編號直達功能 4.將模板設置於檔案服務器方便更新 5. 前端UI調整
 
-​													  -	[Unity.BootstrapAlert] 新增信息提示對象。
+2019-07-23	Modify by Ren
+
+- [Unity.DBProcess] 增加Database處理模塊，傳入sql及參數，返回DataTable或Dictionary<string, string>。
+
+2019-07-24	Modify by Ren 
+
+-	[_Layout.cshtml] 修改Bootstrap以及jQuery的引用路徑，以適應沒有Internet的環境。
+
+2019-07-25	Modify by Ren	
+
+- [YG666] 新增前端Bootstrap Alert提示錯誤信息、亞源科技報表誇庫邏輯修改
+- [Unity.BootstrapAlert] 新增信息提示對象
 
 
 
