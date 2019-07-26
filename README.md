@@ -33,6 +33,10 @@
 - [YG666] 新增前端Bootstrap Alert提示錯誤信息、亞源科技報表誇庫邏輯修改
 - [Unity.BootstrapAlert] 新增信息提示對象
 
+2019-07-26	Modify by Ren
+
+- [ZZ400] 新增ZZ-400加工二課標準包裝系統，完成前端畫面及前後端基本資料傳遞。
+
 
 
 
