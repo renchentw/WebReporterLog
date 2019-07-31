@@ -42,6 +42,11 @@
 - 新增cxmr637通用方法，拷貝ERP的cxmr637邏輯。
 - 新增KEP003A(康舒-1)以及KEP003W(康舒-W)
 
+2019-07-31	Modify by Ren
+
+- [YG666] KEP054A/B修正托數；新增KEU002A華隼
+- [Unity.Convert] 新增周番6碼轉4碼功能
+
 
 
 
