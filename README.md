@@ -47,6 +47,10 @@
 - [YG666] KEP054A/B修正托數；新增KEU002A華隼
 - [Unity.Convert] 新增周番6碼轉4碼功能
 
+2019-08-02	Modify by Ren
+
+- [YG666] 新增KEP004A/D東莞群光；修正DataGroupbyCustomerPN的箱數計算邏輯，改用cxmr637的資料加總。
+
 
 
 
