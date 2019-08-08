@@ -59,6 +59,10 @@
 
 - [Startup.cs] 增加啟動時的判斷以適應Linux服務器。
 
+2019-08-08	Modify by Ren
+
+- [YG666] 修正多角貿易如果單號對應錯誤，可能在對應料號時會跳不出while循環，涉及KEP003W、KEP054A/B
+
 
 
 
