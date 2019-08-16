@@ -75,6 +75,11 @@
 - [API/ASFI] 新增MES團隊所需要的工單API，傳入工單號，返回JSON格式的資料。
 - [Unity.DBProcess] 新增返回JSON格式之ResultJSON()方法，以ResultTable為基礎加工。
 
+2019-08-15	Modify by Ren
+
+- [JS600] 修正台金業務姓名獲取不到的問題
+- [YG666] 根據要求修正武漢康舒ASN piece 改為托數
+
 
 
 ## 項目依賴
