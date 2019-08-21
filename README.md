@@ -84,6 +84,12 @@
 
 - [YG666] 新增KED002C-重慶鴻富錦；KEP003P-菲律賓康舒
 
+2019-08-21	Modify by Ren [YG666]
+
+- 新增KEP060B-芬蘭賽爾康
+- 修改調用DataGroupByCustomerPN()時順便把cxmr637的資料賦值至DataTable dtCxmr637
+- 新增方法Convert_OGA01_TW2KL()用於把台金出貨單號轉換成金立的
+
 
 
 ## 項目依賴
