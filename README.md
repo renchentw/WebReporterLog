@@ -90,7 +90,13 @@
 - 修改調用DataGroupByCustomerPN()時順便把cxmr637的資料賦值至DataTable dtCxmr637
 - 新增方法Convert_OGA01_TW2KL()用於把台金出貨單號轉換成金立的
 
+2019-08-26	Modify by Ren
 
+- [YG668] 新增YG668-嘜頭打印；新增模板KEP-002G光寶-PC
+
+2019-08-27	Modify by Ren
+
+- [YG667] 新增YG667-內外銷合併Packing List
 
 ## 項目依賴
 
