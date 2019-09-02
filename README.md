@@ -98,6 +98,10 @@
 
 - [YG667] 新增YG667-內外銷合併Packing List
 
+2019-09-02	Modify by Ren
+
+- [ZC200] 新增ZC200-資材備料計算
+
 ## 項目依賴
 
 1. Excel操作
